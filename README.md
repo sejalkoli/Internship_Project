@@ -1,6 +1,6 @@
 # Internship_Project
 
-# Analysis-Of-Death-Age-Difference-Of-Left-Handers-and-Right-Handers
+# Analysis-Of-Death-Age-Difference-Of-Left-Handers-with-Right-Handers
 
 - Barak Obama, Bill Gates, Oprah Winfrey, Babe Ruth, and Marie Curie are notable individuals who are left-handed, showcasing that left-handedness is not uncommon among prominent figures.
 
